@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    background-image: url('download\ \(1\).jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+.container{
+    margin: 250px auto;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-image: url(wall.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+image{
+    display: inline;
+}
